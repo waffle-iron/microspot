@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/elgambitero/microspot.png?label=ready&title=Ready)](https://waffle.io/elgambitero/microspot)
 #Microspot
 
 <img src="./doc/README/Microspot.png" width="458" align="center">
